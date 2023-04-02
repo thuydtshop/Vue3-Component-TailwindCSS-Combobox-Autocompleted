@@ -12,7 +12,7 @@ Headlessui
 Heroicons
 
 
-## How to use
+### How to use
 ```import MyCombobox from '../../../commons/MyCombobox.vue';```
 
 ```
@@ -24,3 +24,6 @@ Heroicons
   @add="add"
 />
 ```
+
+### Preview
+![alt text](https://github.com/thuydtshop/Vue3-Component-TailwindCSS-Combobox-Autocompleted/blob/59319dcd6355f1bdb70a2444ffdc2676bbc85ea0/demo.png)
