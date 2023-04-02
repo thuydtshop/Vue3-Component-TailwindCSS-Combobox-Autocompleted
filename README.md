@@ -30,7 +30,7 @@ Arrow Up/Down Keyboard
 
 Escape Keyboard
 
-Delete/ackspace Keyboard
+Delete/Backspace Keyboard
 
 
 ### Preview
