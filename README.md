@@ -13,7 +13,7 @@ Heroicons
 
 
 ### How to use
-```import MyCombobox from '../../../commons/MyCombobox.vue';```
+```import MyCombobox from 'MyCombobox.vue';```
 
 ```
 <MyCombobox 
