@@ -4,13 +4,18 @@ Created Input Combobox Autocompleted with Vue3 + TailwindCSS
 
 ### Packages Requirements
 Vue 3
+
 TailwindCSS
+
 Headlessui
+
 Heroicons
 
 
 ## How to use
-import MyCombobox from '../../../commons/MyCombobox.vue';
+```import MyCombobox from '../../../commons/MyCombobox.vue';```
+
+```
 <MyCombobox 
   :items="items" 
   :selecteds="selecteds"
@@ -18,3 +23,4 @@ import MyCombobox from '../../../commons/MyCombobox.vue';
   @remove="remove"
   @add="add"
 />
+```
